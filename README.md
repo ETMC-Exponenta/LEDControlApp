@@ -11,7 +11,11 @@
 
 [LED Arduino Model](https://github.com/ETMC-Exponenta/LEDControlApp/blob/master/pdf/led_arduino.pdf)
 
+## Video
 
+Describing video for v1.0 R2016a version (on Russian, enable auto-translate captions)
+
+[![RGB Control App video](http://img.youtube.com/vi/gixP32MudA4/mqdefault.jpg)](http://www.youtube.com/watch?v=gixP32MudA4)
 
 ## How to get
 
