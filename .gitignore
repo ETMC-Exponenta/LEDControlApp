@@ -6,3 +6,4 @@ slprj
 *.elf
 *.eep
 *.hex
+*.mexw64
