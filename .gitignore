@@ -1,3 +1,8 @@
-*/*.autosave
-*/*.asv
+**/*.autosave
+**/*.asv
 *.zip
+slprj
+*_ert_rtw
+*.elf
+*.eep
+*.hex
