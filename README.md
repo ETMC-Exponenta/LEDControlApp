@@ -1,6 +1,13 @@
 # App Designer: Instrument Control over Serial (Arduino example)
 ![cover](https://github.com/ETMC-Exponenta/LEDControlApp/raw/master/led_cover.png)
 
+This is an example of how you can use App Designer tool to build program to control any hardware over supported protocol (i.e. serial).
+
+App Designer has visual instrumentation components (knobs, swithes, etc.) so it allows you to build interactive apps for instrument control.
+
+The submission contains a scheme of Arduino based simple device with RGB LED and photoelectric cell.
+Simulink program for Arduino is provided. With interactive program you can control the RGB LED color and observe illuminance level over the serial connection. If you don't have Arduino you can simulate it from Control App.
+
 ## Check out documentation
 
 [RGB Control Documentation](https://github.com/ETMC-Exponenta/LEDControlApp/blob/master/pdf/rgb_doc.pdf)
