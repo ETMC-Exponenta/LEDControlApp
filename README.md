@@ -8,6 +8,8 @@ App Designer has visual instrumentation components (knobs, swithes, etc.) so it 
 The submission contains a scheme of Arduino based simple device with RGB LED and photoelectric cell.
 Simulink program for Arduino is provided. With interactive program you can control the RGB LED color and observe illuminance level over the serial connection. If you don't have Arduino you can simulate it from Control App.
 
+[Submission on File Exchange](https://www.mathworks.com/matlabcentral/fileexchange/57168)
+
 ## Check out documentation
 
 [RGB Control Documentation](https://github.com/ETMC-Exponenta/LEDControlApp/blob/master/pdf/rgb_doc.pdf)
