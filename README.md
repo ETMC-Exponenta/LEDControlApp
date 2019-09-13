@@ -33,7 +33,7 @@ Describing video for v2.1 R2016a version (on Russian, enable auto-translate capt
 Execute in MATLAB
 
 ```MATLAB
-eval(webread('https://git.io/fjP5c'))
+eval(webread('https://exponenta.ru/install/led'))
 ```
 
 #### Alternative: download as archive
