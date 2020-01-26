@@ -1,4 +1,7 @@
 # App Designer: Instrument Control over Serial (Arduino example)
+
+[![View App Designer: Instrument Control over Serial (Arduino) on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/57168)
+
 ![cover](https://github.com/ETMC-Exponenta/LEDControlApp/raw/master/led_cover.png)
 
 This is an example of how you can use App Designer tool to build program to control any hardware over supported protocol (i.e. serial).
